@@ -1,2 +1,2 @@
 # SproutsX
-Web Expense Manager
+Web  Based Expense Manager
